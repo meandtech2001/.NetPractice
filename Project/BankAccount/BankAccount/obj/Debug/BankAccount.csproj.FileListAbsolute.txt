@@ -1,0 +1,7 @@
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\BankAccount\bin\Debug\BankAccount.dll.config
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\BankAccount\bin\Debug\BankAccount.dll
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\BankAccount\obj\Debug\BankAccount.dll
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
