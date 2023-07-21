@@ -1,0 +1,15 @@
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\obj\Debug\MainProgram.csproj.AssemblyReference.cache
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\obj\Debug\MainProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\obj\Debug\MainProgram.csproj.CoreCompileInputs.cache
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\bin\Debug\MainProgram.exe.config
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\bin\Debug\MainProgram.exe
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\bin\Debug\MainProgram.pdb
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\bin\Debug\BankAccount.dll
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\bin\Debug\BankAccount.pdb
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\bin\Debug\BankAccount.dll.config
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\obj\Debug\MainProgram.csproj.CopyComplete
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\obj\Debug\MainProgram.exe
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\obj\Debug\MainProgram.pdb
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\bin\Debug\BankTesterAccount.exe
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\bin\Debug\BankTesterAccount.pdb
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\MainProgram\bin\Debug\BankTesterAccount.exe.config
