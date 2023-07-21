@@ -1,0 +1,2 @@
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\app1Test\obj\Debug\app1Test.csproj.AssemblyReference.cache
+C:\Users\priyap1\OneDrive - Ecolab\Desktop\.net\project\BankAccount\app1Test\obj\Debug\app1Test.csproj.CoreCompileInputs.cache
